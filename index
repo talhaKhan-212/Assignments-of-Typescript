@@ -1,0 +1,2 @@
+let empty1 = undefined; //line 1
+let empty2 = null;
